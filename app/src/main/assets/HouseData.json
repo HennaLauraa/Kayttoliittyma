@@ -1,0 +1,19 @@
+{
+  "HouseStatus": {
+    "Kellari": {
+      "Light": "false",
+      "Volume": "43",
+      "Music": "false"
+    },
+    "Sauna": {
+      "Light": "false",
+      "Humidity": "kosteaa",
+      "temp": "85",
+      "Kiuas":"true"
+    },
+    "Terassi": {
+      "Light": "false",
+      "temp": "10"
+    }
+  }
+}
